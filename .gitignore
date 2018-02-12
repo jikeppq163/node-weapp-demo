@@ -4,3 +4,4 @@ sdk.config
 node_modules
 setup-qcloud-sdk.js
 config.js
+config-.js
