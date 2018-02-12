@@ -9,7 +9,7 @@ const sdkConfig = (() => {
     }
 
     // Linux
-    return 'euro/work/node-weapp-demo/sdk.config';
+    return ' home/euro/work/node-weapp-demo/sdk.config';
 })();
 
 try {
