@@ -1,4 +1,4 @@
-# 腾讯云微信小程序服务端 DEMO - Node.js
+# 腾讯云微信小程序服务端 - 开发Mysql应用 DEMO - Node.js
 
 本项目是 [腾讯云微信小程序服务端 SDK - Node.js](https://github.com/tencentyun/weapp-node-server-sdk) 的使用示例。示例需要和 [微信小程序客户端示例](https://github.com/tencentyun/weapp-client-demo) 配合一起使用。
 
