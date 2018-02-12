@@ -9,7 +9,7 @@ const sdkConfig = (() => {
     }
 
     // Linux
-    return '/etc/qcloud/sdk.config';
+    return 'work/node-weapp-demo/sdk.config';
 })();
 
 try {
