@@ -9,5 +9,6 @@ router.get('/user', require('./user'));
 router.all('/tunnel', require('./tunnel'));
 router.get('/read', require('./read'));
 router.get('/test', require('./test'));
+router.get('/Manage', require('./Manage'));
 
 module.exports = router;

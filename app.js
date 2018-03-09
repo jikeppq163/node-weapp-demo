@@ -7,6 +7,7 @@ const http = require('http');
 const express = require('express');
 const bodyParser = require('body-parser');
 const morgan = require('morgan');
+const ejs = require('ejs');
 const config = require('./config');
 
 const app = express();
@@ -16,6 +17,8 @@ app.set('case sensitive routing', true);
 app.set('jsonp callback name', 'callback');
 app.set('strict routing', true);
 app.set('trust proxy', true);
+app.set('view engine', 'html');
+app.engine('html', ejs.__express);
 
 app.disable('x-powered-by');
 

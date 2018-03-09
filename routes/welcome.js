@@ -48,6 +48,7 @@ const html =
         <ul>
             <li><a href="/login">登录服务</a></li>
             <li><a href="/user">检查登录</a></li>
+            <li><a href="/LoginManage">测试页面</a></li>
         </ul>
         <p>信道服务</p>
         <ul>
